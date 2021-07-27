@@ -1,0 +1,6 @@
+name: mock-server
+description: 'start mock-server'
+inputs:
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
