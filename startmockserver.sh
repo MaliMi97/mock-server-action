@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh -l
 #java -jar mockserver-netty-5.11.2-jar-with-dependencies.jar -serverPort 8080 &
 echo "bear"
